@@ -1,39 +1,65 @@
-Full Stack Task Manager Web Application
+# **Full Stack Task Manager Web Application**
 
-Hello Everyone,
+_Hello Everyone..._
+<br/>
+This is Proffesional Task Manager App  which I build<br>
+using `React, Redux, Material UI, Express, MongoDB, Node JS, CSS`.<br/>If you Want to try then Go to the link Below...<br/>_
 
-This is a Professional Task Manager App built using React, Redux, Material UI, Express, MongoDB, Node.js, and CSS.
 
-The application allows you to store your personal, professional, and other tasks along with their subtasks. You can also edit tasks at any time. All user information and tasks are securely stored in the backend, so you can access them anytime.
+<br/>
 
-Technologies Used
+In this application you can store your personal, proffesional and other tasks with theire subtasks. You can also edit them later.<br>
+All the user Information and All the tasks are stored in Backend so you can also access them later.
 
-Frontend:
+## Technologies :
 
-ReactJS
+#### Frontend :
 
-Redux
+- ReactJS
+- Redux
+- Material UI
 
-Material UI
+### Backend :
 
-Backend:
+- Express
+- NodeJS
+- MongoDB
 
-Express
+## Features :
 
-Node.js
+- Register User
+- Login User
+- Create Task
+- Read Tasks
+- Update Tasks
+- Long time access
 
-MongoDB
+## Screenshots of Application :
 
-Features
+- ### SignUp section
+  ![alt text](/Images/signup.png)
 
-User Registration
+---
 
-User Login
+- ### SignIn section
+  ![alt text](/Images/signin.png)
 
-Create Tasks
+---
 
-View Tasks
+- ### Home Page section
 
-Update Tasks
+ ![alt text](/Images/home.png)
 
-Long-term Access
+- ### Tasks Pages Section
+  ![alt text](/Images/tasks.png)
+
+---
+
+- ### Add New Task Section
+  ![alt text](/Images/addtask.png)
+
+---
+
+- ### Responsive Design
+  ![alt text](/Images/response.png)
+#
