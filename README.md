@@ -1,35 +1,17 @@
 Full Stack Task Manager Web Application
 
-Hello Everyone 👋
+Hello Everyone...
+<br/>
+This is a Professional Task Manager App which I built<br/>
+using React, Redux, Material UI, Express, MongoDB, Node JS, CSS.<br/>
 
-I have developed a professional Full Stack Task Manager web application using modern web technologies. This application helps users manage their personal, professional, and other daily tasks in an organized and secure way.
+<br/>
 
-About the Application
+In this application, you can store your personal, professional, and other tasks along with their subtasks. You can also edit them later.<br/>
+All the user information and tasks are stored in the backend, so you can access them anytime.
 
-This Task Manager application allows users to create, manage, and track tasks along with their subtasks. Users can edit their tasks anytime, and all data is securely stored in the backend database. Since the application supports long-term access, users can log in later and continue from where they left off.
-
-The system is designed to be responsive, user-friendly, and scalable for real-world usage.
-
-Key Features
-
-User Registration and Login
-
-Secure Authentication
-
-Create New Tasks
-
-View All Tasks
-
-Update and Edit Existing Tasks
-
-Manage Subtasks
-
-Long-Term Data Storage
-
-Responsive Design for Mobile and Desktop
-
-Technologies Used
-Frontend
+Technologies:
+Frontend:
 
 ReactJS
 
@@ -37,36 +19,24 @@ Redux
 
 Material UI
 
-CSS
+Backend:
 
-Backend
+Express
 
-Node.js
-
-Express.js
+NodeJS
 
 MongoDB
 
-Project Highlights
+Features:
 
-Clean and modern UI using Material UI
+Register User
 
-Centralized state management with Redux
+Login User
 
-RESTful APIs built with Express and Node.js
+Create Task
 
-Secure data storage using MongoDB
+Read Tasks
 
-Fully responsive layout for different screen sizes
+Update Tasks
 
-How to Use
-
-Register a new account
-
-Login with your credentials
-
-Create and manage your tasks
-
-Add and edit subtasks
-
-Access your tasks anytime from any device
+Long-term access
