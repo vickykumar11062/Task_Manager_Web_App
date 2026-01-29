@@ -1,65 +1,72 @@
-# **Full Stack Task Manager Web Application**
+Full Stack Task Manager Web Application
 
-_Hello Everyone..._
-<br/>
-This is Proffesional Task Manager App  which I build<br>
-using `React, Redux, Material UI, Express, MongoDB, Node JS, CSS`.<br/>If you Want to try then Go to the link Below...<br/>_
+Hello Everyone 👋
 
+I have developed a professional Full Stack Task Manager web application using modern web technologies. This application helps users manage their personal, professional, and other daily tasks in an organized and secure way.
 
-<br/>
+About the Application
 
-In this application you can store your personal, proffesional and other tasks with theire subtasks. You can also edit them later.<br>
-All the user Information and All the tasks are stored in Backend so you can also access them later.
+This Task Manager application allows users to create, manage, and track tasks along with their subtasks. Users can edit their tasks anytime, and all data is securely stored in the backend database. Since the application supports long-term access, users can log in later and continue from where they left off.
 
-## Technologies :
+The system is designed to be responsive, user-friendly, and scalable for real-world usage.
 
-#### Frontend :
+Key Features
 
-- ReactJS
-- Redux
-- Material UI
+User Registration and Login
 
-### Backend :
+Secure Authentication
 
-- Express
-- NodeJS
-- MongoDB
+Create New Tasks
 
-## Features :
+View All Tasks
 
-- Register User
-- Login User
-- Create Task
-- Read Tasks
-- Update Tasks
-- Long time access
+Update and Edit Existing Tasks
 
-## Screenshots of Application :
+Manage Subtasks
 
-- ### SignUp section
-  ![alt text](/Images/signup.png)
+Long-Term Data Storage
 
----
+Responsive Design for Mobile and Desktop
 
-- ### SignIn section
-  ![alt text](/Images/signin.png)
+Technologies Used
+Frontend
 
----
+ReactJS
 
-- ### Home Page section
+Redux
 
- ![alt text](/Images/home.png)
+Material UI
 
-- ### Tasks Pages Section
-  ![alt text](/Images/tasks.png)
+CSS
 
----
+Backend
 
-- ### Add New Task Section
-  ![alt text](/Images/addtask.png)
+Node.js
 
----
+Express.js
 
-- ### Responsive Design
-  ![alt text](/Images/response.png)
-#
+MongoDB
+
+Project Highlights
+
+Clean and modern UI using Material UI
+
+Centralized state management with Redux
+
+RESTful APIs built with Express and Node.js
+
+Secure data storage using MongoDB
+
+Fully responsive layout for different screen sizes
+
+How to Use
+
+Register a new account
+
+Login with your credentials
+
+Create and manage your tasks
+
+Add and edit subtasks
+
+Access your tasks anytime from any device
